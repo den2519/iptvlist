@@ -1,3 +1,2 @@
 #EXTM3U
-https://stream.1tv.ru/embed
-https://smotret.tv/rossiya-1
+<iframe src="https://stream.1tv.ru/embed" width="640" height="360" frameborder="0" allowfullscreen gesture="media" allow="encrypted-media"></iframe>
