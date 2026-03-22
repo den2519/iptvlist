@@ -1,2 +1,3 @@
 #EXTM3U
-<iframe src="https://stream.1tv.ru/embed" width="640" height="360" frameborder="0" allowfullscreen gesture="media" allow="encrypted-media"></iframe>
+#EXTINF:-1, Первый канал
+https://tv.mail.ru/online/pervij-hd/
