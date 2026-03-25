@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://www.teleguide.info"
-#EXTINF:-1 tvg-id="1tv.ru" tvg-logo="https://raw.githubusercontent.com",Первый канал
+#EXTINF:-1 tvg-id="1tv.ru",Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=_sBlnXxlBFFwV6xyde6GPg&e=2074358904&scheme=https
 #EXTINF:-1, Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
