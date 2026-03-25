@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1, Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=_sBlnXxlBFFwV6xyde6GPg&e=2074358904&scheme=https
+#EXTINF:-1, Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1, СТС
+https://nlv4.sysnet.top/video/fr8fQP0yHR55hlecTWVfXg/9/playlist.m3u8
+#EXTINF:-1, РЕН ТВ
+https://frv2.sysnet.top/video/pjplp-dFuwPqmZ1wl7P_sQ/8/playlist.m3u8
+#EXTINF:-1, Дикая рыбалка
+https://secure-ridge-22999-537c838d4a8a.herokuapp.com/46.53.208.4/live/2324-req_offset_28000000-req_window_0-5k_v5.m3u8
