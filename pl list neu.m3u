@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://www.teleguide.info"
-#EXTINF:-1 tvg-id="1tv.ru",Первый канал
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=_sBlnXxlBFFwV6xyde6GPg&e=2074358904&scheme=https
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="1" tvg-name="Perviy_kanal",Первый канал
+https://vsd159.okcdn.ru/hls/528984312566.m3u8/sig/Zq7PdPcD8tY/expires/1777749801613/srcIp/87.165.243.134/urls/45.136.22.88/clientType/0/srcAg/CHROME/mid/1115050286838/528984312566_high/index.m3u8
 #EXTINF:-1, Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1, СТС
